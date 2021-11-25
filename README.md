@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elvisdutra
-- 👀 I’m interested in aprender a programar
-- 🌱 I’m currently learning  html, no curso da Rocketseat
+- 👀 I’m interested in learn to program
+- 🌱 I’m currently learning  html, course of Rocketseat
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
